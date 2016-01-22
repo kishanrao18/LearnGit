@@ -5,8 +5,7 @@ public class HelloWorld {
 	public static void main(String[] args) {
 
 		
-		System.out.println("Second Project");
-		
+		System.out.println("Second Project");		
 	}
 
 }
